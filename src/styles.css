@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(190 234 252);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.temp-card {
+  border-radius: 17px;
+    background-image: linear-gradient(to right, #fd7e14, orange);
+  
+    height: 442px;
+    width: 700px;
+    box-shadow: 0px 0px 15px 6px;
+    margin: 60px auto;
+    padding: 23px;
+    color: #fff;
+ 
+}
+#temp_input {
+  margin-right: 14px;
+  width: 340px;
+  border: none;
+  /* background: #cdcdcd; */
+  padding: 4px;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 19px;
+}
+.input_area {
+  justify-content: center;
+}
+.btn:hover{
+  background-color:gold
+}
